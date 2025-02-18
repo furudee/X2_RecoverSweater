@@ -22,12 +22,6 @@
     <Content Include="ContentForCook\FuruSweater.upk">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Content\CIN_Forge_RecoverStasisSuit.umap">
-      <SubType>Content</SubType>
-    </Content>
-    <Content Include="Content\Obj_Forge.umap">
-      <SubType>Content</SubType>
-    </Content>
     <Content Include="ReadMe.txt" />
     <Content Include="ModPreview.jpg" />
     <Content Include="ContentOptions.json" />
